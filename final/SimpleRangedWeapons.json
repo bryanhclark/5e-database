@@ -1,0 +1,150 @@
+{
+    "crossbow_light": {
+        "index": 11,
+        "name": "Crossbow, light",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Simple",
+        "weapon_range": "Ranged",
+        "category_range": "Simple Ranged",
+        "cost": {
+            "quantity": 25,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 5,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+                "name": "Ammunition"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/5",
+                "name": "Loading"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/11"
+    },
+    "dart": {
+        "index": 12,
+        "name": "Dart",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Simple",
+        "weapon_range": "Ranged",
+        "category_range": "Simple Ranged",
+        "cost": {
+            "quantity": 5,
+            "unit": "cp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 4,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 0.25,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+                "name": "Finesse"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+                "name": "Thrown"
+            }
+        ],
+        "throw_range": {
+            "normal": 20,
+            "long": 60
+        },
+        "url": "http://www.dnd5eapi.co/api/equipment/12"
+    },
+    "shortbow": {
+        "index": 13,
+        "name": "Shortbow",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Simple",
+        "weapon_range": "Ranged",
+        "category_range": "Simple Ranged",
+        "cost": {
+            "quantity": 25,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 2,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+                "name": "Ammunition"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/13"
+    },
+    "sling": {
+        "index": 14,
+        "name": "Sling",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Simple",
+        "weapon_range": "Ranged",
+        "category_range": "Simple Ranged",
+        "cost": {
+            "quantity": 1,
+            "unit": "sp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 4,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/2",
+                "name": "Bludgeoning"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 0,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/1",
+                "name": "Ammunition"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/14"
+    }
+}

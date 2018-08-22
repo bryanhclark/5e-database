@@ -1,0 +1,25 @@
+{
+  "name": "5e-database",
+  "version": "1.0.0",
+  "description": "Holds the database for the D&D 5th Edition API at http://dnd5eapi.co/",
+  "main": "addsubclasses.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanhclark/5e-database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanhclark/5e-database/issues"
+  },
+  "homepage": "https://github.com/bryanhclark/5e-database#readme",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.2.0",
+    "request": "^2.88.0"
+  }
+}

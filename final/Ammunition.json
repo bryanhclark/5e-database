@@ -1,0 +1,50 @@
+{
+    "arrow": {
+        "index": 54,
+        "name": "Arrow",
+        "equipment_category": "Adventuring Gear",
+        "gear_category": "Ammunition",
+        "cost": {
+            "quantity": 5,
+            "unit": "cp"
+        },
+        "weight": 1,
+        "url": "http://www.dnd5eapi.co/api/equipment/54"
+    },
+    "blowgun_needle": {
+        "index": 55,
+        "name": "Blowgun needle",
+        "equipment_category": "Adventuring Gear",
+        "gear_category": "Ammunition",
+        "cost": {
+            "quantity": 2,
+            "unit": "cp"
+        },
+        "weight": 1,
+        "url": "http://www.dnd5eapi.co/api/equipment/55"
+    },
+    "crossbow_bolt": {
+        "index": 56,
+        "name": "Crossbow bolt",
+        "equipment_category": "Adventuring Gear",
+        "gear_category": "Ammunition",
+        "cost": {
+            "quantity": 5,
+            "unit": "cp"
+        },
+        "weight": 1.5,
+        "url": "http://www.dnd5eapi.co/api/equipment/56"
+    },
+    "sling_bullet": {
+        "index": 57,
+        "name": "Sling bullet",
+        "equipment_category": "Adventuring Gear",
+        "gear_category": "Ammunition",
+        "cost": {
+            "quantity": 1,
+            "unit": "cp"
+        },
+        "weight": 1.5,
+        "url": "http://www.dnd5eapi.co/api/equipment/57"
+    }
+}

@@ -1,0 +1,627 @@
+{
+    "battleaxe": {
+        "index": 15,
+        "name": "Battleaxe",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 10,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 4,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+                "name": "Versatile"
+            }
+        ],
+        "2h_damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "url": "http://www.dnd5eapi.co/api/equipment/15"
+    },
+    "flail": {
+        "index": 16,
+        "name": "Flail",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 10,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/2",
+                "name": "Bludgeoning"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 2,
+        "properties": [],
+        "url": "http://www.dnd5eapi.co/api/equipment/16"
+    },
+    "glaive": {
+        "index": 17,
+        "name": "Glaive",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 20,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 6,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+                "name": "Reach"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/17"
+    },
+    "greataxe": {
+        "index": 18,
+        "name": "Greataxe",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 30,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 12,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 7,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/18"
+    },
+    "greatsword": {
+        "index": 19,
+        "name": "Greatsword",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 50,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 2,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 6,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/19"
+    },
+    "halberd": {
+        "index": 20,
+        "name": "Halberd",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 20,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 6,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+                "name": "Reach"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/20"
+    },
+    "lance": {
+        "index": 21,
+        "name": "Lance",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 10,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 12,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 6,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+                "name": "Reach"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/7",
+                "name": "Special"
+            }
+        ],
+        "special": [
+            "You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren’t mounted."
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/21"
+    },
+    "longsword": {
+        "index": 22,
+        "name": "Longsword",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 15,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 3,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+                "name": "Versatile"
+            }
+        ],
+        "2h_damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "url": "http://www.dnd5eapi.co/api/equipment/22"
+    },
+    "maul": {
+        "index": 23,
+        "name": "Maul",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 10,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 2,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/2",
+                "name": "Bludgeoning"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 10,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/23"
+    },
+    "morningstar": {
+        "index": 24,
+        "name": "Morningstar",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 15,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 4,
+        "properties": [],
+        "url": "http://www.dnd5eapi.co/api/equipment/24"
+    },
+    "pike": {
+        "index": 25,
+        "name": "Pike",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 5,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 18,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/3",
+                "name": "Heavy"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+                "name": "Reach"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/9",
+                "name": "Two-Handed"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/25"
+    },
+    "rapier": {
+        "index": 26,
+        "name": "Rapier",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 25,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 2,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+                "name": "Finesse"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/26"
+    },
+    "scimitar": {
+        "index": 27,
+        "name": "Scimitar",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 25,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 3,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+                "name": "Finesse"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+                "name": "Light"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/27"
+    },
+    "shortsword": {
+        "index": 28,
+        "name": "Shortsword",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 10,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/8",
+                "name": "Piercing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 2,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+                "name": "Finesse"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/4",
+                "name": "Light"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/11",
+                "name": "Monk"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/28"
+    },
+    "trident": {
+        "index": 29,
+        "name": "Trident",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 5,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 6,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 4,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/8",
+                "name": "Thrown"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+                "name": "Versatile"
+            }
+        ],
+        "throw_range": {
+            "normal": 20,
+            "long": 60
+        },
+        "url": "http://www.dnd5eapi.co/api/equipment/29"
+    },
+    "warhammer": {
+        "index": 31,
+        "name": "Warhammer",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 15,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 8,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/2",
+                "name": "Bludgeoning"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 2,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/10",
+                "name": "Versatile"
+            }
+        ],
+        "2h_damage": {
+            "dice_count": 1,
+            "dice_value": 10,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/2",
+                "name": "Bludgeoning"
+            }
+        },
+        "url": "http://www.dnd5eapi.co/api/equipment/31"
+    },
+    "whip": {
+        "index": 32,
+        "name": "Whip",
+        "equipment_category": "Weapon",
+        "weapon_category:": "Martial",
+        "weapon_range": "Melee",
+        "category_range": "Martial Melee",
+        "cost": {
+            "quantity": 2,
+            "unit": "gp"
+        },
+        "damage": {
+            "dice_count": 1,
+            "dice_value": 4,
+            "damage_type": {
+                "url": "http://www.dnd5eapi.co/api/damage-types/12",
+                "name": "Slashing"
+            }
+        },
+        "range": {
+            "normal": 5,
+            "long": null
+        },
+        "weight": 3,
+        "properties": [
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/2",
+                "name": "Finesse"
+            },
+            {
+                "url": "http://www.dnd5eapi.co/api/weapon-properties/6",
+                "name": "Reach"
+            }
+        ],
+        "url": "http://www.dnd5eapi.co/api/equipment/32"
+    }
+}
